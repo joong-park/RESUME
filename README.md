@@ -3,4 +3,4 @@
 
 ## 소개
 
-![My.icon](/My.png)
+![My.icon](/My.jpg)
