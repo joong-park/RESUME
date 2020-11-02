@@ -26,5 +26,7 @@
  
  ## 사용기술
  **C programing**  
- **Java programing**
+ **Java programing**  
+ **Python**  
+ 
  
