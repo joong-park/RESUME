@@ -5,4 +5,4 @@
 
 ![My.icon](/My.jpg)
 
-<img src=My.jpg width=200 height=100>
+<img src=My.jpg width=200 height=200>
