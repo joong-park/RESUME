@@ -11,4 +11,4 @@
 * e-mail : wndgn98@naver.com  
 * Github : https://github.com/joong-park/   
 
-
+** 슬로건 : 미래를 생각하며, 현재 상황에 최선을 다하고 충실하자 **  
