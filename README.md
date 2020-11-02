@@ -32,6 +32,7 @@
  **Python**  
  **logic design**  
  **Computer Architecture**  
+ **circuit theory**
  
 --------
 
